@@ -2,7 +2,7 @@ use_frameworks!
 
 target 'RxCocoa-Texture_Example' do
   pod 'RxCocoa-Texture', :path => '../'
-  pod 'RxAlamofire'
+  #pod 'RxAlamofire'
 
   target 'RxCocoa-Texture_Tests' do
     inherit! :search_paths
